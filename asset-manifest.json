@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Second-react-app/static/css/main.dbdcd281.css",
+    "main.js": "/Second-react-app/static/js/main.3506c205.js",
+    "static/media/photos.png": "/Second-react-app/static/media/photos.56f4c3394d1fec3cb16b.png",
+    "static/media/first-img.png": "/Second-react-app/static/media/first-img.3a3434e3f5632d7c8f76.png",
+    "static/media/second-img.png": "/Second-react-app/static/media/second-img.cc36ce403c2a7db00380.png",
+    "static/media/third-img.png": "/Second-react-app/static/media/third-img.b01502af312232ac8b33.png",
+    "static/media/logo.svg": "/Second-react-app/static/media/logo.b28cf7f017befbd331c4020b8002efbd.svg",
+    "index.html": "/Second-react-app/index.html",
+    "static/media/star.svg": "/Second-react-app/static/media/star.4253351289a38a7cf56081641a6dcee6.svg",
+    "main.dbdcd281.css.map": "/Second-react-app/static/css/main.dbdcd281.css.map",
+    "main.3506c205.js.map": "/Second-react-app/static/js/main.3506c205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbdcd281.css",
+    "static/js/main.3506c205.js"
+  ]
+}
