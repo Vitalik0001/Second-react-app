@@ -3,7 +3,7 @@ import star from '../../img/star.svg';
 
 const Card = ({info}) => {
   const {country, price, reviewCount, img, title, rating, openSpots} = info;
-  let badgeText ;
+  let badgeText;
 
   if (openSpots === 0) {
     badgeText = "SOLD OUT"
